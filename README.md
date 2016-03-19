@@ -1,12 +1,15 @@
-# pylonebot
-simple and easy to set up irc bot written in python
+# Just Another Python Irc Bot
+simple and easy to set up irc bot written in python.
+this is a repo to improve my own coding skills.
 
 # usage
 
-main.py <name>
+create a subfolder with <name>
+create a config.txt like sample_config.txt in subfolder
+start with main.py <name>
 
 if it can't find a config.txt in <name> subdirectory it will clone sample_config.txt into it. 
 
 # features
 
-none at the moment
+it connects and logs!
