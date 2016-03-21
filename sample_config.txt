@@ -1,10 +1,9 @@
 //Server address
-chat.freenode.net
+
 //Port
-6697
+
 //Nickname
-pylonebot
+
 //Password
-changethispassword
-//List of channels (#channel1, #channel2, ...)
-#pylonebot, #pylonetest
+
+//List of channels (#channel1, #channel2 password, ...)
