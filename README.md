@@ -1,6 +1,6 @@
 # Just Another Python Irc Bot
 simple and easy to set up irc bot written in python.
-this is a repo to improve my own coding skills.
+this is a repo mostly written to improve my own coding skills.
 
 # usage
 
