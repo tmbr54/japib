@@ -6,4 +6,8 @@
 
 //Password
 
+<<<<<<< HEAD
 //List of channels (#channel1, #channel2 password, ...)
+=======
+//List of channels (#channel1, #channel2, ...)
+>>>>>>> bd2753fd74928865cafb01a28fec58cb1838fcf2
