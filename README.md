@@ -1,14 +1,10 @@
 # Just Another Python Irc Bot
 simple and easy to set up irc bot written in python.
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 this is a repo to improve my own coding skills.
 =======
 this is a repo mostly written to improve my own coding skills.
->>>>>>> bd2753fd74928865cafb01a28fec58cb1838fcf2
-=======
-this is a repo mostly written to improve my own coding skills.
->>>>>>> bd2753fd74928865cafb01a28fec58cb1838fcf2
+
 
 # usage
 
@@ -17,7 +13,7 @@ this is a repo mostly written to improve my own coding skills.
 * start with main.py name
 * add your own commands in commands.py
 
-if it can't find a config.txt in name subdirectory, it will clone sample_config.txt into it. 
+if it can't find a config.txt in name subdirectory, it will clone sample_config.txt into it.
 
 # features
 
